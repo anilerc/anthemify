@@ -1,0 +1,20 @@
+[
+    {"src": "soviet.mp3", "title":"State Anthem", "country": "Soviet Union", "imgs":"soviet.jpg", "color":"red"},
+
+    {"src": "kazakh.mp3", "title":"Menin Elim", "country": "Kazakhstan", "imgs":"kazakh.png", "color":"#00AFCA"},
+
+    {"src": "germany.mp3", "title":"Das Deutschlandlied", "country": "Germany", "imgs":"germany.jpg", "color":"black"},
+
+    {"src": "turkey.mp3", "title":"Istiklal Marsi", "country": "Turkey", "imgs":"turkey.png", "color":"red"},
+
+    {"src": "italy.mp3", "title":"Fratelli d'Italia", "country": "Italy", "imgs":"italy.jpg", "color":"green"},
+
+    {"src": "france.mp3", "title":"La Marseillaise", "country": "France", "imgs":"france.png", "color":"blue"},
+
+    {"src": "uk.mp3", "title":"God Save The Queen", "country": "United Kingdom", "imgs":"uk.png", "color":"red"},
+
+    {"src": "spain.mp3", "title":"La Marcha Real", "country": "Spain", "imgs":"spain.png", "color":"orange"},
+
+    {"src": "japan.mp3", "title":"Kimi Ga Yo", "country": "Japan", "imgs":"japan.jpg", "color":"red"}
+
+]
